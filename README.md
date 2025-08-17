@@ -29,7 +29,7 @@
           Greet the audience. Mention that this deck demonstrates all the requested capabilities.
           Point out that the email is visible on the first slide per requirements.
         </aside>
-        <div class="footer">© 2025 IITM MLP</div>
+        <div class="footer">Email: 24ds3000008@ds.study.iitm.ac.in</div>
       </section>
 
       <!-- 2) A slide written entirely in Markdown -->
@@ -42,6 +42,8 @@
 - You can also include images and links.
 
 > Pro tip: Use Markdown for fast iteration!
+
+**Contact:** 24ds3000008@ds.study.iitm.ac.in
 
 Notes:
 - These speaker notes can be added in HTML using `<aside class="notes">`, but here we showcase Markdown content.
@@ -119,6 +121,7 @@ console.log(futureValue(1000, 0.08, 5));
           <li class="fragment">Enable GitHub Pages from the repo settings.</li>
           <li class="fragment">Open your GitHub Pages URL and present!</li>
         </ol>
+        <p><strong>Contact: 24ds3000008@ds.study.iitm.ac.in</strong></p>
         <aside class="notes">Wrap up and share the URL with the audience.</aside>
       </section>
 
@@ -140,7 +143,7 @@ console.log(futureValue(1000, 0.08, 5));
       plugins: [ RevealMarkdown, RevealNotes, RevealHighlight, RevealMath.KaTeX ],
       // Optional: Highlight.js options
       highlight: {
-        // auto-detect languages in &lt;code&gt; blocks
+        // auto-detect languages in <code> blocks
       },
       // Optional: KaTeX options
       math: {
